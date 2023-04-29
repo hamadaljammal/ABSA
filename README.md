@@ -1,2 +1,2 @@
-# ABSA computing projet
+# ABSA computing project
 Hamad Yousef Aljammal 2002816
